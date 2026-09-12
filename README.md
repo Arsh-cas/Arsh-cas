@@ -1,10 +1,5 @@
 
 <div align="center">
-
-<h3><code>arshdeep@github ~ $</code></h3>
-
-<br><br>
-
 <h3><code>arshdeep@github ~ $ whoami</code></h3>
 
 <table>
