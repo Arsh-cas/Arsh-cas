@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<h3><code>arshdeep@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" />
+<h3><code>arshdeep@github ~ $</code></h3>
 
 <br><br>
 
