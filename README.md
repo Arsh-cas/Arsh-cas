@@ -11,11 +11,11 @@
 
 <table>
   <tr>
-    <td valign="top">
-      <img src="./arshdeep-ascii.svg" width="370" />
+    <td valign="top" width="50%">
+      <img src="./arshdeep-ascii.svg" width="100%" />
     </td>
-    <td valign="top">
-      <img src="./info-card.svg" width="490" />
+    <td valign="top" width="50%">
+      <img src="./info-card.svg" width="100%" />
     </td>
   </tr>
 </table>
